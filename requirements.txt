@@ -1,0 +1,37 @@
+# Backend Server
+python-dotenv
+pydantic
+pydantic-settings
+fastapi
+uvicorn[standard]
+httpx
+python-multipart
+
+# Agentic Framework
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+langmem
+
+# LLM
+
+# Object storage (Backblaze B2, S3-compatible)
+boto3
+
+# Async
+asyncpg
+sqlalchemy[asyncio]
+
+# PostgresSQL
+pgvector
+psycopg2-binary
+
+# Test
+pytest
+pytest-asyncio
+
+# Logging | Tracing
+tenacity
+langsmith
+structlog

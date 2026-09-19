@@ -1,0 +1,4977 @@
+{
+ "_how_to_use": "Look up 'DOMAIN|USUBJID|SEQ'. A hit is that site's scripted reply to a query on that record. A miss means the generic reply in _default.",
+ "_default": [
+  "ANSWERED",
+  "Data verified against source documents. No change."
+ ],
+ "replies": {
+  "AE|042-S11-005|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "AE|042-S02-010|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "AE|042-S09-010|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "AE|042-S10-012|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "AE|042-S09-013|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "AE|042-S02-015|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "AE|042-S03-016|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "AE|042-S07-016|1": [
+   "CLOSED",
+   "Date entry error confirmed; AE start date corrected to after first dose."
+  ],
+  "EX|042-S09-006|2": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-006|3": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-006|4": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-014|2": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-014|3": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-014|4": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-011|2": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-011|3": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-011|4": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-009|2": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-009|3": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-009|4": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-005|2": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-005|3": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-005|4": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-004|2": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-004|3": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "EX|042-S09-004|4": [
+   "CLOSED",
+   "Dose transcription error confirmed at site; source shows 20 mg administered \u2014 deviation logged."
+  ],
+  "CM|042-S08-001|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S09-001|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S11-002|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S12-002|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S09-005|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S02-010|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S09-012|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S09-013|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S07-001|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S08-005|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S06-006|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S05-012|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S08-013|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "CM|042-S08-014|1": [
+   "ANSWERED",
+   "Medication confirmed as recorded; prescribed by GP prior to enrolment."
+  ],
+  "LB|042-S07-001|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-001|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-002|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-003|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-004|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-005|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-006|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-007|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-008|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-009|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-010|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-011|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-012|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-013|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-014|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-015|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-016|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-017|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-018|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-019|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|1": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|2": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|3": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|4": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|5": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|6": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|7": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|8": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|9": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|10": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|11": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|12": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|13": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|14": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|15": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|16": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|17": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|18": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|19": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|20": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|21": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|22": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|23": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|24": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|25": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|26": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|27": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|28": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|29": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|30": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|31": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|32": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|33": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|34": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|35": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|36": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|37": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|38": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|39": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|40": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|41": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|42": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|43": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|44": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|45": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|46": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|47": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|48": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|49": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|50": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|51": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|52": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|53": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|54": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|55": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|56": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|57": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|58": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|59": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "LB|042-S07-020|60": [
+   "ANSWERED",
+   "Our local lab reports ALT/AST in ukat/L. Values are correct as entered."
+  ],
+  "DM|042-S02-013|": [
+   "ANSWERED",
+   "Subject confirmed enrolled at this site. Not aware of other enrolment."
+  ],
+  "DM|042-S05-021|": [
+   "ANSWERED",
+   "Subject confirmed enrolled at this site. Not aware of other enrolment."
+  ]
+ }
+}

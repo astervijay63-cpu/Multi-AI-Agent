@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MOSAIC — Clinical Trial Intelligence</title>
+    <script>
+      // Runs before the bundle loads and before first paint, so a light-mode
+      // user never sees the dark palette flash to light once React mounts.
+      // App.tsx reads the same key and keeps the attribute in sync after that.
+      (function () {
+        try {
+          var saved = localStorage.getItem("mosaic.theme");
+          var theme =
+            saved === "light" || saved === "dark"
+              ? saved
+              : window.matchMedia("(prefers-color-scheme: light)").matches
+                ? "light"
+                : "dark";
+          document.documentElement.setAttribute("data-theme", theme);
+        } catch (e) {
+          // Private browsing can throw on localStorage — dark is the default.
+          document.documentElement.setAttribute("data-theme", "dark");
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-BdY4Q9cE.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DCXmNkyB.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

@@ -1,0 +1,6077 @@
+{
+ "_how_to_use": "Look up 'FINDING_CODE|USUBJID' or 'FINDING_CODE|SITEID' to get the medical monitor's reply: APPROVED, REJECTED or CLARIFY, with a reason. Your system must handle all three. CLARIFY means answer the question from your own data and resubmit \u2014 on resubmission the reply is APPROVED.",
+ "decisions": {
+  "HYS_LAW_CANDIDATE|042-S01-001": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-001": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-001": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-001": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-001": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-001": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-001": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-001": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-001": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-001": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-001": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-001": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-002": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-002": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-002": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-002": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-002": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-002": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-002": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-002": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-002": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-002": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-002": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-002": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-003": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-003": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-003": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-003": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-003": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-003": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-003": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-003": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-003": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-003": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-003": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-003": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-004": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-004": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-004": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-004": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-004": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-004": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-004": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-004": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-004": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-004": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-004": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-004": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-005": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-005": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-005": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-005": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-005": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-005": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-005": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-005": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-005": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-005": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-005": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-005": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-006": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-007": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-007": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-007": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-007": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-007": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-007": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-007": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-007": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-007": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-007": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-007": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-007": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-008": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-008": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-008": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-008": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-008": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-008": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-008": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-008": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-008": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-008": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-008": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-008": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-009": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-009": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-009": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-009": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-009": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-009": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-009": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-009": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-009": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-009": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-009": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-009": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-010": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-010": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-010": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-010": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-010": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-010": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-010": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-010": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-010": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-010": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-010": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-010": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-011": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-011": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-011": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-011": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-011": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-012": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-012": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-012": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-012": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-012": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-012": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-012": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-012": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-012": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-012": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-012": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-012": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-013": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-013": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-013": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-014": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-014": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-014": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-014": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-015": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-015": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-015": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-015": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-015": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-015": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-015": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-015": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-015": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-015": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-015": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-015": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-016": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-016": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-016": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-016": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-016": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-017": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-017": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-017": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-017": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-018": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-018": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-018": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-018": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-018": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-019": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-019": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-019": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-019": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-019": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-019": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-019": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-019": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-019": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-019": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-019": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-019": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|042-S01-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S02-020": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S03-020": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S04-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S06-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S07-020": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|042-S08-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S09-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S10-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S11-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S12-020": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|042-S05-021": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|S01": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|S02": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|S03": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|S04": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|S05": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|S06": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|S07": [
+   "REJECTED",
+   "Baseline transaminases were already elevated; monitor, do not escalate to safety."
+  ],
+  "HYS_LAW_CANDIDATE|S08": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "HYS_LAW_CANDIDATE|S09": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|S10": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|S11": [
+   "APPROVED",
+   "Consistent with Hy's law; report to safety and hold dosing pending review."
+  ],
+  "HYS_LAW_CANDIDATE|S12": [
+   "CLARIFY",
+   "What was the ALT at screening, and is there a concomitant hepatotoxic medication?"
+  ],
+  "SAE_UNESCALATED|042-S01-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S01-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S02-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S03-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S04-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S06-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S07-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S08-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S09-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S10-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S11-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S12-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|042-S05-021": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S01": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S02": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S03": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S04": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S05": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S06": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S07": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S08": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S09": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S10": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S11": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_UNESCALATED|S12": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-001": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-002": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-003": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-004": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-005": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-006": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-007": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-008": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-009": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-010": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-011": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-012": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-013": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-014": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-015": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-016": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-017": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-018": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-019": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S01-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S02-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S03-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S04-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S06-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S07-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S08-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S09-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S10-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S11-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S12-020": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|042-S05-021": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S01": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S02": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S03": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S04": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S05": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S06": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S07": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S08": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S09": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S10": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S11": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "SAE_MISCODED|S12": [
+   "APPROVED",
+   "Serious adverse event confirmed; expedited report within 24 h."
+  ],
+  "DOSING_ERROR|042-S01-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-001": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-001": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S01-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-002": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S10-002": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-002": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-003": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S08-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-003": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S10-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-003": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-004": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-004": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S03-004": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S04-004": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-004": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S06-004": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-004": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S08-004": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-004": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-004": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-004": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-004": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-005": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-005": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-005": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S01-006": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S02-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-006": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S06-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-006": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S10-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-006": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-007": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S07-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-007": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S09-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-007": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-008": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S05-008": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S06-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-008": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-009": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S02-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-009": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S05-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-009": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S07-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-009": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-010": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S02-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-010": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-010": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-011": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-012": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S02-012": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S03-012": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S04-012": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S05-012": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-012": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-012": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S08-012": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-012": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S10-012": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-012": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-012": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-013": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S10-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-013": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S12-013": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-014": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S05-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-014": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S08-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-014": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-014": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-015": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S04-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-015": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S07-015": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S08-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-015": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-015": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-016": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S02-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-016": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S10-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-016": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S12-016": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-017": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S11-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-017": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-018": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S06-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-018": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S08-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-018": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-019": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S06-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-019": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S09-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-019": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|042-S12-019": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S01-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S02-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S03-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S04-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S06-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S07-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S08-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S09-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S10-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S11-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S12-020": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|042-S05-021": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S01": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "DOSING_ERROR|S02": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S03": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S04": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S05": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S06": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S07": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S08": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S09": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S10": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S11": [
+   "APPROVED",
+   "Site-level deviation; issue corrective action and retrain site staff."
+  ],
+  "DOSING_ERROR|S12": [
+   "CLARIFY",
+   "How many subjects at the site are affected and over which visits?"
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-001": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-001": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-001": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-001": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-002": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-002": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-002": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-002": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-003": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-003": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-003": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-003": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-003": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-003": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-003": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-003": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-003": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-003": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-003": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-003": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-004": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-004": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-005": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-005": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-005": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-005": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-006": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-006": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-006": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-006": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-006": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-007": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-007": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-007": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-007": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-008": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-008": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-008": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-008": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-008": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-008": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-008": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-008": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-008": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-008": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-008": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-008": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-009": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-009": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-009": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-009": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-009": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-009": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-009": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-009": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-009": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-009": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-009": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-009": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-010": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-010": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-010": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-010": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-010": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-010": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-010": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-010": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-010": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-010": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-010": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-010": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-011": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-011": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-011": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-012": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-012": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-012": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-012": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-013": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-013": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-013": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-013": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-013": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-013": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-013": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-013": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-013": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-013": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-013": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-013": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-014": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-014": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-014": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-014": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-014": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-014": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-014": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-014": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-014": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-014": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-014": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-014": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-015": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-015": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-015": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-015": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-016": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-016": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-016": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-016": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-016": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-016": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-016": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-016": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-016": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-016": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-016": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-016": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-017": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-017": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-017": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-018": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-018": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-018": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-018": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-019": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-019": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-019": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S01-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S02-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S03-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S04-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S06-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S07-020": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S08-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S09-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S10-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S11-020": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S12-020": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|042-S05-021": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S01": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S02": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S03": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S04": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S05": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S06": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S07": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S08": [
+   "CLARIFY",
+   "Show the variance statistics versus other sites."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S09": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S10": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S11": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "IMPLAUSIBLE_SITE_PATTERN|S12": [
+   "APPROVED",
+   "Trigger for-cause audit of the site."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-001": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-001": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-001": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-001": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-001": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-002": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-002": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-002": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-002": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-003": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-003": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-003": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-003": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-004": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-004": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-005": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-005": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-006": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-006": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-007": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-007": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-007": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-008": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-008": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-008": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-009": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-009": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-009": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-009": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-010": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-010": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-010": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-011": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-011": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-011": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-012": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-012": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-012": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-012": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-012": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-013": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-013": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-013": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-013": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-013": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-014": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-014": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-014": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-014": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-014": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-014": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-014": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-014": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-014": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-014": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-014": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-014": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-015": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-015": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-015": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-015": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-015": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-015": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-015": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-015": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-015": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-015": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-015": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-015": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-016": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-016": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-016": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-016": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-016": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-017": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-017": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-017": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-017": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-017": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-017": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-017": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-017": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-017": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-017": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-017": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-017": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-018": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-018": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-018": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-019": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-019": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-019": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S01-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S02-020": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S03-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S04-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S06-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S07-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S08-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S09-020": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S10-020": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S11-020": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|042-S12-020": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|042-S05-021": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|S01": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|S02": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|S03": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|S04": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|S05": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|S06": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|S07": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|S08": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|S09": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|S10": [
+   "APPROVED",
+   "Noted."
+  ],
+  "DUPLICATE_SUBJECT|S11": [
+   "REJECTED",
+   "Not clinically significant; handle as a data query."
+  ],
+  "DUPLICATE_SUBJECT|S12": [
+   "APPROVED",
+   "Noted."
+  ]
+ }
+}
